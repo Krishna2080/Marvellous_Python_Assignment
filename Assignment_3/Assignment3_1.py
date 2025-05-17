@@ -1,3 +1,4 @@
+#Write a program which accept N numbers from user and store it into List. Return addition of all elements from that List. 
 from functools import reduce
 def Sum (A,B):
     return A+B
@@ -14,7 +15,6 @@ def main():
        
 if __name__=="__main__":
     main()
-
 
 #result=0
     #for i in b:
