@@ -1,3 +1,4 @@
+#10. Write a program which accept number from user and return addition of digits in that number. 
 def main():
     a=input("enter number : ")
     b=list(map(int,a))
@@ -7,8 +8,5 @@ def main():
 
     print("your addition is : ",result)
     
-       
-   
-
 if __name__=="__main__":
     main()
