@@ -1,4 +1,4 @@
-
+#Write a program which accept one number form user and return addition of its factors
 def main():
     sum=0
     no1=int(input("enter number : "))
