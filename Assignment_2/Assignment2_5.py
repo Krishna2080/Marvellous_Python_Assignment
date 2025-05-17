@@ -1,12 +1,11 @@
+#5. Write a program which accept one number for user and check whether number is prime or not. 
 def prime(v1):
     if v1 < 2:
         return True
     for i in range(2,v1):
      if (v1 % i==0):
-        return  True
-     
-    return False
-
+        return  True  
+    return False   
     
 def main():
 
