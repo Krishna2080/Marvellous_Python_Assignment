@@ -1,4 +1,4 @@
-
+#3. Write a program which accept one number from user and return its factorial. 
 def main():
     sum=1
     no1=int(input("enter number : "))
