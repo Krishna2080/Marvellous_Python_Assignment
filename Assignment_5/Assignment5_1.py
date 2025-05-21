@@ -1,3 +1,6 @@
+#Q1. Arithmetic Operations on Two Numbers 
+#Write a program to accept two integers from the user and display their: 
+#Sum ,Difference ,Product ,Division 
 def Add(v1,v2):
     return v1+v2
 def Minus(v1,v2):
