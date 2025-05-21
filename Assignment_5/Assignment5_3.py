@@ -1,3 +1,4 @@
+#Q3. Voting Eligibility Checker Accept age from the user and check whether the person is eligible to vote. (Age should be 18 or above.) 
 def vote(v1):
     if(v1>=18):
         print("Eligible to vote")
