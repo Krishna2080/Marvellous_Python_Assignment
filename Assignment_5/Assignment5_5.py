@@ -1,3 +1,4 @@
+#Q5. Even or Odd Number Check Write a program to check whether the entered number is even or odd
 def EvenOdd(a1):
     if(a1%2==0):
         print(a1,"is an EVEN number")
