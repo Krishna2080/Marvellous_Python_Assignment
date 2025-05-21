@@ -1,3 +1,4 @@
+#Q7. Area and Perimeter of Rectangle Accept the length and width of a rectangle. Calculate and display the area and perimeter. 
 def Rectangle(L1,W1):
     area=L1*W1
     perimeter=2*(L1+W1)
