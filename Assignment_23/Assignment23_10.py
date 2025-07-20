@@ -8,9 +8,10 @@ def main():
         'English': [75, 85, 82]
     }
       df=pd.DataFrame(data)
-      print("Shape :",df.shape)
-      print("columns of data :",df.columns)
-      print("Data types of data :",df.dtypes)
+      print(df)
+      df.drop(columns=['English'] ,inplace=True)
+      print(df)
 
+      
 if __name__=="__main__":
     main()
